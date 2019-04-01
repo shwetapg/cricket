@@ -21,7 +21,7 @@
 
 <!-- <button name="login" type="sumbit" class="btn btn-success form-control" style="margin-top:13px;width: 112px;margin-left:32px;margin-bottom:10px;"><a href="criknownews.php"></a>LOGIN</button> -->
 <div style="margin-left: 200px;margin-top: 111px;">
-<div style="margin-top: 33px;width: 180px;margin-left: 90px;margin-bottom: 10px;background-color: lightgreen;height: 40px;padding: 12px 33px 29px 39px;"><a href="./criknownews.php" style="color:white;">NEWS</a></div>
+<div style="margin-top: 33px;width: 180px;margin-left: 90px;margin-bottom: 10px;background-color: lightgreen;height: 40px;padding: 12px 33px 29px 39px;"><a href="./criknowNews.php" style="color:white;">NEWS</a></div>
 <div style="margin-top: -50px;width: 180px;margin-left: 304px;margin-bottom: 10px;background-color: lightgreen;height: 40px;padding: 12px 33px 29px 39px;"><a href="./criknowvideos.php" style="color:white;">VIDEOS</a></div>
 <div style="margin-top: -50px;width: 180px;margin-left: 515px;margin-bottom: 10px;background-color: lightgreen;height: 40px;padding: 12px 33px 29px 39px;"><a href="#" style="color:white;">MATCHES</a></div>
 <div style="width: 180px;margin-left: 90px;margin-bottom: 10px;background-color: lightgreen;height: 40px;padding: 12px 33px 29px 39px;"><a href="#" style="color:white;">TEAMS</a></div>
